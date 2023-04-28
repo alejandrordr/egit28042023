@@ -10,5 +10,6 @@
 <body>
 <h2>Servlets en java</h2>
 <%= new Date() %>
+<a href="contacto.html">Contacto</a>
 </body>
 </html>
